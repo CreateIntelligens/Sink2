@@ -64,7 +64,7 @@ export default defineNuxtConfig({
     openAPI: {
       production: 'runtime',
       meta: {
-        title: 'aiurl.tw API',
+        title: 'create360.ai API',
         description: '創造智能--簡訊用的短網址服務',
       },
       route: '/_docs/openapi.json',
